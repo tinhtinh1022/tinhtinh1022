@@ -37,20 +37,13 @@ I'm a Master's student in Business Management in Masaryk University and I found 
 ### 🎧 On Repeat
 
 <p align="center">
-  <i>a little soundtrack to my life ♡</i>
+  <i>A little soundtrack to my life ♡</i>
 </p>
 
-<p align="center">
-  <a href="https://open.spotify.com/search/JANNABI">
-    <img src="https://img.shields.io/badge/JANNABI-on%20repeat-f778ba?style=for-the-badge&logo=spotify&logoColor=white" alt="JANNABI on repeat" />
-  </a>
-  <a href="https://open.spotify.com/search/JANNABI%20Legend">
-    <img src="https://img.shields.io/badge/LEGEND-favorite%20album-8957e5?style=for-the-badge&logo=spotify&logoColor=white" alt="JANNABI Legend" />
-  </a>
-</p>
+<p align="center"> <a href="https://open.spotify.com/album/4fgJZhpksYeOUtddVplxWS"> <img src="https://img.shields.io/badge/Spotify-Playlist%2001-8957e5?style=for-the-badge&logo=spotify&logoColor=white" alt="Sou sou no Frieren on Spotify" /> </a> <a href="https://open.spotify.com/playlist/4edLwaF8nNFS9i5pm9uNqa"> <img src="https://img.shields.io/badge/Spotify-Playlist%2002-f778ba?style=for-the-badge&logo=spotify&logoColor=white" alt="Clair Obscur: Expedition 33 on Spotify" /> </a> </p>
 
 <p align="center">
-  <sub>♫ retro melodies, nostalgic feelings, and late-night coding ♫</sub>
+  <sub>♫ studying and late-night coding ♫</sub>
 </p>
 
 ---
