@@ -40,7 +40,14 @@ I'm a Master's student in Business Management in Masaryk University and I found 
   <i>A little soundtrack to my life ♡</i>
 </p>
 
-<p align="center"> <a href="https://open.spotify.com/album/4fgJZhpksYeOUtddVplxWS"> <img src="https://img.shields.io/badge/Spotify-Playlist%2001-8957e5?style=for-the-badge&logo=spotify&logoColor=white" alt="Sou sou no Frieren on Spotify" /> </a> <a href="https://open.spotify.com/playlist/4edLwaF8nNFS9i5pm9uNqa"> <img src="https://img.shields.io/badge/Spotify-Playlist%2002-f778ba?style=for-the-badge&logo=spotify&logoColor=white" alt="Clair Obscur: Expedition 33 on Spotify" /> </a> </p>
+<p align="center">
+  <a href="https://open.spotify.com/album/4fgJZhpksYeOUtddVplxWS">
+    <img src="https://img.shields.io/badge/Spotify-Sou%20sou%20no%20Frieren-8957e5?style=for-the-badge&logo=spotify&logoColor=white" alt="Sou sou no Frieren on Spotify" />
+  </a>
+  <a href="https://open.spotify.com/playlist/4edLwaF8nNFS9i5pm9uNqa">
+    <img src="https://img.shields.io/badge/Spotify-Clair%20Obscur%3A%20Expedition%2033-f778ba?style=for-the-badge&logo=spotify&logoColor=white" alt="Clair Obscur: Expedition 33 on Spotify" />
+  </a>
+</p>
 
 <p align="center">
   <sub>♫ studying and late-night coding ♫</sub>
