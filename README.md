@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm a Master's student in Business Management in Masaryk University and I found myself interested in Data area so I decided to get into this journey. I'm learning SQL, Python and R to work with data and Tableau for visualization. Keep fingers crossed for me!
+I'm a Master's student in Business Management in Masaryk University and I found myself interested in Data area so I decided to get into this journey. I'm using SQL, Python and R to work with data and Tableau for visualization. Keep fingers crossed for me!
 
 🌱 &nbsp;I'm currently learning **Building robust pipelines and ETL processes**
 
