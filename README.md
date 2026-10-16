@@ -34,10 +34,23 @@ I'm a Master's student in Business Management in Masaryk University and I found 
   <a href="mailto:btct4858@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+### 🎧 On Repeat
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=tinhtinh1022&show_icons=true&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <i>a little soundtrack to my life ♡</i>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/search/JANNABI">
+    <img src="https://img.shields.io/badge/JANNABI-on%20repeat-f778ba?style=for-the-badge&logo=spotify&logoColor=white" alt="JANNABI on repeat" />
+  </a>
+  <a href="https://open.spotify.com/search/JANNABI%20Legend">
+    <img src="https://img.shields.io/badge/LEGEND-favorite%20album-8957e5?style=for-the-badge&logo=spotify&logoColor=white" alt="JANNABI Legend" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>♫ retro melodies, nostalgic feelings, and late-night coding ♫</sub>
 </p>
 
 ---
