@@ -42,10 +42,10 @@ I'm a Master's student in Business Management in Masaryk University and I found 
 
 <p align="center">
   <a href="https://open.spotify.com/album/4fgJZhpksYeOUtddVplxWS">
-    <img src="https://img.shields.io/badge/Spotify-Sou%20sou%20no%20Frieren-8957e5?style=for-the-badge&logo=spotify&logoColor=white" alt="Sou sou no Frieren on Spotify" />
+    <img src="https://img.shields.io/badge/-Sou%20sou%20no%20Frieren-8957e5?style=for-the-badge&logo=spotify&logoColor=white" alt="Sou sou no Frieren on Spotify" />
   </a>
   <a href="https://open.spotify.com/playlist/4edLwaF8nNFS9i5pm9uNqa">
-    <img src="https://img.shields.io/badge/Spotify-Clair%20Obscur%3A%20Expedition%2033-f778ba?style=for-the-badge&logo=spotify&logoColor=white" alt="Clair Obscur: Expedition 33 on Spotify" />
+    <img src="https://img.shields.io/badge/-Clair%20Obscur%3A%20Expedition%2033-f778ba?style=for-the-badge&logo=spotify&logoColor=white" alt="Clair Obscur: Expedition 33 on Spotify" />
   </a>
 </p>
 
